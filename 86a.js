@@ -31,9 +31,3 @@ setTimeout(function() {
          document.getElementById("clickMe").dispatchEvent(e);
      }
 }, 3000);
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
